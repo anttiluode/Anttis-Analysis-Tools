@@ -29,6 +29,11 @@ The project includes two core tools:
 
 ---
 
+## NOTE
+
+At the end of the video analysis tool script you can choose your video source (index number, webcam is usually 0) 
+At the end of the edf analysis tool you can choose the EDF file you want to analyze. 
+
 ## Dependencies
 
 Both tools require the following Python libraries:
