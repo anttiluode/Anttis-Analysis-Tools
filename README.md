@@ -7,6 +7,8 @@ Added a cifar 10 latent space generator that does a npy (hidden vectors of the a
 EDF channel 1 data (back of the brain in my case) from sleep studies to the AI latent space (created with the AI latent space generator). 
 And EEGchannelbreakdown.py nameofedfilehere.edf that can recognize the channels in a edf (European) eeg file. 
 
+# What it is
+
 Antti's Analysis Tools is a suite of Python scripts designed for **advanced signal analysis** of video streams and EEG (Electroencephalography) files. These tools provide filtering, FFT (Fast Fourier Transform), and visualization capabilities for time series signals.
 
 ---
