@@ -1,2 +1,0 @@
-We are probably just exploring the cifar 10 dataset model latent space so the projections to the brain hidden vectors
-may produce images, but might be just caused by the cifar 10 dataset. 
